@@ -18,5 +18,4 @@ My name is Benjamin Fang, and I am currently studying biology.
 
 * 🛹 Hiking, Reading, Skateboard...
 
-<br>
 <p style="font-size: 3em; color: aquamarine; text-align: center;">Know and Solve</p>
