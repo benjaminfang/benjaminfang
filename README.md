@@ -11,7 +11,7 @@ My name is Benjamin Fang, and I am currently studying biology.
 
 * 📝 I'm learning statistics and biology now. 
 
-* 💡 I'm currently looking for new career opportunities.
+* 💡 I'm currently <span style="color: red;">looking for new career opportunities</span>.
 
 
 ## Hobbies
