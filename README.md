@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Benjamin Fang, and I am currently studying biology.
+My name is Hailing, and I am currently studying biology.
 
 * 😀 I hold a Bachelor's degree in Biotechnology as well as a Master's degree in Bioinfomatics.
 
